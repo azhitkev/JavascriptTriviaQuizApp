@@ -1,0 +1,29 @@
+[
+    {
+         "question": "Who plays Chandler?",
+        "choice1": "Matt LeBlanc",
+        "choice2": "Joshua Jackson",
+        "choice3": "David Schwimmer",
+        "choice4": "Matthew Perry",
+        "answer": 4
+    }, 
+
+    {
+        "question": "What word goes at the end of this part of the theme song? 'So no one told you life was gonna be this way. You're job's a joke, you're broke, your love life's _______' ",
+        "choice1": "A-OK",
+        "choice2": "D.O.A",
+        "choice3": "M.I.A",
+        "choice4": "DMV",
+        "answer": 2
+    },
+
+    {
+        "question": "Monica is a ________ freak",
+        "choice1": "mean",
+        "choice2": "neat",
+        "choice3": "loud",
+        "choice4": "cool",
+        "answer": 2
+    }
+]
+
